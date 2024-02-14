@@ -3,8 +3,8 @@
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
-      "key": "豆豆",
-      "name": "🧧饭祝大家新春快乐龙年大吉",
+      "key": "程式猎人",
+      "name": "中国市政工程西北设计研究院",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -854,7 +854,7 @@
     {
       "name": "SAO0",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/iptv.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
