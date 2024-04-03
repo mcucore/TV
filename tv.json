@@ -801,9 +801,15 @@
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "高速V6",
+      "name": "福建电信",
       "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fjdx.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "福建电信RTSP",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fjdxrtsp.m3u",
       "playerType": 1
     },
     {
