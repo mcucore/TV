@@ -792,6 +792,15 @@
   ],
   "lives": [
     {
+      "name": "多线ITV",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/iptv.txt",
+ "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
       "name": "福建电信",
       "type": 0,
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fjdx.m3u",
@@ -808,15 +817,6 @@
       "type": 0,
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fjyd.m3u",
       "playerType": 1
-    },
-    {
-      "name": "多线ITV",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/iptv.txt",
- "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
       "name": "嗅探",
