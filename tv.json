@@ -803,19 +803,19 @@
     {
       "name": "福建电信",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fjdx.m3u",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fjct.m3u",
       "playerType": 1
     },
     {
       "name": "福建电信RTSP",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fjdxrtsp.m3u",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fjctrtsp.m3u",
       "playerType": 1
     },
     {
       "name": "福建移动",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fjyd.m3u",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fjcm.m3u",
       "playerType": 1
     },
     {
