@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "程式猎人",
-      "name": "永久免会员视频",
+      "name": "永久免会员",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
