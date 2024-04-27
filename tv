@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "程式猎人",
-      "name": "永久免会员",
+      "name": "永久免费会员",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -810,13 +810,13 @@
     {
       "name": "福州电信",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fzct.txt",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fzct",
       "playerType": 1
     },
     {
       "name": "福建电信HTTP",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fjct.m3u",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fjcthttp.m3u",
       "playerType": 1
     },
     {
@@ -834,7 +834,7 @@
     {
       "name": "福建联通",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fjcu.txt",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fjcu",
       "playerType": 1
     },   
     {
