@@ -798,8 +798,7 @@
     }
   ],
   "lives": [
-    { "name": "多线ITV","type": 0,"url": "http://127.0.0.1:9978/proxy?do=live&url=https://jihulab.com/okcaptain/kko/-/raw/main/li.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","timeout": 10},    
-    { "name": "讴歌TV","type":0,"url":"http://tv.nxog.top/m/tv/","playerType":1,"ua": "okhttp/3.12.13","epg":"https://epg.imxd.top/?ch={name}&date={date}","logo": "https://live.imxd.top/logo/{name}.png"},
+    { "name": "多线iTV","type":0,"url":"http://tv.nxog.top/m/tv/","playerType":1,"ua": "okhttp/3.12.13","epg":"https://epg.imxd.top/?ch={name}&date={date}","logo": "https://live.imxd.top/logo/{name}.png"},
     { "name": "本地多线","type": 0,"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/itv","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
     { "name": "福州电信","type": 0,"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fzct","playerType": 1},
     { "name": "福建电信HTTP","type": 0,"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fjcthttp.m3u","playerType": 1},
