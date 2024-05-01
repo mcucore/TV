@@ -798,62 +798,15 @@
     }
   ],
   "lives": [
-    {
-      "name": "本地多线",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/itv",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "福州电信",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fzct",
-      "playerType": 1
-    },
-    {
-      "name": "福建电信HTTP",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fjcthttp.m3u",
-      "playerType": 1
-    },
-    {
-      "name": "福建电信RTSP",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fjctrtsp.m3u",
-      "playerType": 1
-    },
-    {
-      "name": "福建移动",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fjcm.m3u",
-      "playerType": 1
-    },
-    {
-      "name": "福建联通",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fjcu",
-      "playerType": 1
-    },   
-    {
-      "name": "多线ITV",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u",
-      "playerType": 1
-    },
-    {
-      "name": "嗅探",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
-      "type": 0,
-      "url": "https://xhdwc.tk/xiutan.m3u"
-    },
-    {
-      "name": "IPV6",
-      "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-      "playerType": 1
-    }
+    { "name": "多线ITV","type": 0,"url": "http://127.0.0.1:9978/proxy?do=live&url=https://jihulab.com/okcaptain/kko/-/raw/main/li.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","timeout": 10},    
+    { "name": "讴歌TV","type":0,"url":"http://tv.nxog.top/m/tv/","playerType":1,"ua": "okhttp/3.12.13","epg":"https://epg.imxd.top/?ch={name}&date={date}","logo": "https://live.imxd.top/logo/{name}.png"},
+    { "name": "本地多线","type": 0,"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/itv","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+    { "name": "福州电信","type": 0,"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fzct","playerType": 1},
+    { "name": "福建电信HTTP","type": 0,"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fjcthttp.m3u","playerType": 1},
+    { "name": "福建电信RTSP","type": 0,"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fjctrtsp.m3u","playerType": 1},
+    { "name": "福建移动","type": 0,"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fjcm.m3u","playerType": 1},
+    { "name": "福建联通","type": 0,"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/mcucore/TV/main/fjcu","playerType": 1},   
+    { "name": "嗅探","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","type": 0,"url": "https://xhdwc.tk/xiutan.m3u"},
+    { "name": "IPV6","type": 0,"url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType": 1}
   ]
 }
